@@ -11,6 +11,7 @@ This project will be used to manage a system that monitors the status of a set o
 # Function Description
 # Profile routes
 1. GET /profile
+
 The server should allow a user to create only one user profile. The get request should only return a singular JSON object.
 
 2. POST /profile
