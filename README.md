@@ -33,3 +33,4 @@ The server should allow a user to alter the parts of one of the tanks after it h
 The server should allow the requester to delete any previously POSTed object. 
 
 # Joke
+Why should the number 288 never be mentioned? It’s two gross :) 
